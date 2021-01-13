@@ -1,0 +1,132 @@
+{
+	"info": {
+		"_postman_id": "dcdfb980-3c6d-4ad8-8f01-123c08461126",
+		"name": "EmployeeApiClass",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": [
+				{
+					"name": "GetAll",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44376/api/employee/Employee",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44376",
+							"path": [
+								"api",
+								"employee",
+								"Employee"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?QzpcVXNlcnNcNjEwOTY5MVxPbmVEcml2ZSAtIFRob21zb24gUmV1dGVycyBJbmNvcnBvcmF0ZWRcRGVza3RvcFxUcmFpbmluZ1xFbXBsb3llZUFwaVxFbXBsb3llZUFwaVxhcGlcZW1wbG95ZWVcRW1wbG95ZWU=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 07 Jan 2021 12:14:37 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "325"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Age\": 21,\n        \"Id\": 105,\n        \"Name\": \"Karan\",\n        \"Role\": \"Technology Intern\"\n    },\n    {\n        \"Age\": 30,\n        \"Id\": 101,\n        \"Name\": \"Het\",\n        \"Role\": \"Senior Software Engineer\"\n    },\n    {\n        \"Age\": 24,\n        \"Id\": 102,\n        \"Name\": \"Saiyam\",\n        \"Role\": \"Junior Software Engineer\"\n    },\n    {\n        \"Age\": 35,\n        \"Id\": 103,\n        \"Name\": \"Keyur\",\n        \"Role\": \"Product Manager\"\n    },\n    {\n        \"Age\": 25,\n        \"Id\": 104,\n        \"Name\": \"Dev\",\n        \"Role\": \"Lead Software Engineer\"\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "Get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}

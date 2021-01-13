@@ -1,0 +1,7 @@
+1) GetAll - https://localhost:44376/api/employee/Employee
+2) Get - https://localhost:44376/api/employee/Employee/103
+3) Post - https://localhost:44376/api/employee/Employee
+	Body - {"Age": 23, "Id": 106, "Name": "Shwet", "Role": "Technology Intern"}
+4) Put - https://localhost:44376/api/employee/Employee/105
+	Body - {"Age":22,"Id":105,"Name":"Karan","Role":"Technology Intern"}
+5) Delete - https://localhost:44376/api/employee/Employee/105
