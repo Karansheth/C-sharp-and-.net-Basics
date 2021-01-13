@@ -10,7 +10,7 @@ Api endpoints are called from postman for testing and export those requests.
 
 Custom route path is set to "api/employee/{controller}/{id}" in WebApiConfig.cs file.
 
-In the employee Controller following methods are implemented,
+## In the employee Controller following methods are implemented-
 
 1) GetAll method to get information of all employees in a list named as "emp".
 2) Get method to get information of any one particular employee by passing his id.
