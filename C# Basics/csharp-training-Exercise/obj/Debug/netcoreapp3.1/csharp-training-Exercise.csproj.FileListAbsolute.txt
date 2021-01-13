@@ -1,0 +1,13 @@
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\bin\Debug\netcoreapp3.1\csharp-training-Exercise.exe
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\bin\Debug\netcoreapp3.1\csharp-training-Exercise.deps.json
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\bin\Debug\netcoreapp3.1\csharp-training-Exercise.runtimeconfig.json
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\bin\Debug\netcoreapp3.1\csharp-training-Exercise.runtimeconfig.dev.json
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\bin\Debug\netcoreapp3.1\csharp-training-Exercise.dll
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\bin\Debug\netcoreapp3.1\csharp-training-Exercise.pdb
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.csprojAssemblyReference.cache
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.AssemblyInfoInputs.cache
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.AssemblyInfo.cs
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.dll
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.pdb
+C:\Users\6109691\OneDrive - Thomson Reuters Incorporated\Desktop\Training\csharp-training-Exercise\csharp-training-Exercise\obj\Debug\netcoreapp3.1\csharp-training-Exercise.genruntimeconfig.cache
