@@ -1,11 +1,14 @@
-Whole Assignment is done following coding guidelines of TR.
+# Web Api Exercise
 
-Model with class name Employee is made having data Id, Name, Age, and Role of an Employee.
+Created webapi project and EmployeeController. Added various action methods to support GetAll, Get, Post, Put and Delete Employee operations.  
+
+Created Employee class under Models folder which have data like Id, Name, Age and Role.  
+
+Data is stored as static field in EmployeeController. 
+
+Api endpoints are called from postman for testing and export those requests.
 
 Custom route path is set to "api/employee/{controller}/{id}" in WebApiConfig.cs file.
-
-As in this assignment we donot have to deal with database, I made list consisting information of
-five employees.
 
 In the employee Controller following methods are implemented,
 
